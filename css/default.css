@@ -56,6 +56,15 @@ body {
 	margin: 25px 45px 25px 45px !important;
 }
 
+.caption {
+	text-weight: 550;
+	color: white !important;
+	font-size: 25px !important;
+	margin: 25px 45px 25px 45px !important;
+	text-align: center;
+}
+
+
 .title {
 	font-size: 75px !important;
 	font-weight: bolder;
@@ -128,3 +137,23 @@ body {
 	margin: auto;
 	display: flex;
 	height: 900px
+}
+.pearlimg{
+	margin: auto;
+	display: flex;
+	height: 400px
+}
+
+.mapimg{
+	margin: auto;
+	display: flex;
+	height: 800px
+}
+
+div.a {
+  text-indent: 50px;
+}
+
+.tab4 {
+  tab-size: 25;
+}
